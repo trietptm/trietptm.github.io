@@ -22,5 +22,5 @@
 * 
 
 ## PHẢN HỒI TỪ CÁC KHÁCH HÀNG:
-* [Ông Nguyễn Thế Tân - Phó Tổng Giám Đốc VCCorp](https://www.slideshare.net/slideshow/embed_code/key/AGjVNZ4vKbPLxT)
+* <span style="font-family:Times New Roman">[Ông Nguyễn Thế Tân - Phó Tổng Giám Đốc VCCorp](https://www.slideshare.net/slideshow/embed_code/key/AGjVNZ4vKbPLxT)</span>
 * 
