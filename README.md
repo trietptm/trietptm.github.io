@@ -6,7 +6,7 @@
 * My company provides various private Information Security services, contact me via [LinkedIn](https://www.linkedin.com/in/trietptm/), [Twitter](https://twitter.com/MinhTrietPT/with_replies) if you'd like further information.
 * 
 
-## INFORMATION SECURITY/CYBER SECURITY SERVICES:
+# INFORMATION SECURITY/CYBER SECURITY SERVICES:
 * [APT Hunting, Threat Hunting]()
 * [Incident Response]()
 * [Forensics Analysis]()
@@ -17,8 +17,8 @@
   * Secure Data Wiping/Removal
 * 
 
-## OTHER CONSULTING SERVICES:
+# OTHER CONSULTING SERVICES:
 * [How to transform your life with meditation and other life changing habits]()
 * 
 
-## [VIETNAMESE VERSION OF THIS WEBSITE](https://trietptm.github.io/VN)
+# [VIETNAMESE VERSION OF THIS WEBSITE](https://trietptm.github.io/VN)
