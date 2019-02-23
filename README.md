@@ -19,5 +19,4 @@
 * [How to transform your life with meditation and other life changing habits]()
 * 
 
-## VIETNAMESE VERSION OF THIS WEBSITE:
-* 
+## [VIETNAMESE VERSION OF THIS WEBSITE](https://trietptm.github.io/README_VN)
