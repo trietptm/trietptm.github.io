@@ -22,7 +22,7 @@
 * 
 
 # TESTIMONIALS, ENDORSEMENTS AND SUCCESS STORIES
-* [VCCorp](https://www.slideshare.net/slideshow/embed_code/key/AGjVNZ4vKbPLxT)
+* [Mr Tan The Nguyen - Vice General Director of VCCorp](https://www.slideshare.net/slideshow/embed_code/key/AGjVNZ4vKbPLxT)
 * 
 
 # [VIETNAMESE VERSION OF THIS WEBSITE](https://trietptm.github.io/VN)
