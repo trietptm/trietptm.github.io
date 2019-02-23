@@ -7,8 +7,8 @@
 * 
 
 # INFORMATION SECURITY/CYBER SECURITY SERVICES:
-* [APT Hunting, Threat Hunting]()
-* [Incident Response]()
+* [APT Hunting, Threat Hunting](https://trietptm.github.io/service/Threat_Hunting)
+* [Incident Response](https://trietptm.github.io/service/Incident_Response_Forensics)
 * [Forensics Analysis]()
 * [Information Security/Cyber Security Consulting]()
 * [Red Teaming]()
