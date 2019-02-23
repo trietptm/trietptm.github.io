@@ -9,11 +9,11 @@
 * [APT Hunting, Threat Hunting]()
 * [Incident Response]()
 * [Forensics Analysis]()
-* [Information Security/Cyber Security Consulting]
+* [Information Security/Cyber Security Consulting]()
 * [Red Teaming]()
 * [System Penetration Testing]()
 * 
 
 ## OTHER CONSULTING SERVICES:
-* [How to transform your life with meditation and other life changing habits]
+* [How to transform your life with meditation and other life changing habits]()
 * 
