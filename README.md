@@ -13,6 +13,8 @@
 * [Information Security/Cyber Security Consulting]()
 * [Red Teaming]()
 * [System Penetration Testing]()
+* OTHERS:
+  * Secure Data Wiping/Removal
 * 
 
 ## OTHER CONSULTING SERVICES:
