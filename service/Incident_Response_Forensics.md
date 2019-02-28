@@ -1,4 +1,4 @@
-### <p style="text-align: center;">[Home](https://trietptm.github.io/)</p>
+### <center>[Home](https://trietptm.github.io/)</center>
 # Digital Forensics & Incident Respone Service
 
 ## Benefits
