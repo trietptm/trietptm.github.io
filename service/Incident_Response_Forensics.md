@@ -1,4 +1,4 @@
-### [->Home<-](https://trietptm.github.io/)
+#### [Home](https://trietptm.github.io/)
 # Digital Forensics & Incident Respone Service
 
 ## Benefits
