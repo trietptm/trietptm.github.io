@@ -4,7 +4,7 @@
 * [LinkedIn](https://www.linkedin.com/in/trietptm/), [Twitter](https://twitter.com/MinhTrietPT/with_replies), [Patreon](https://www.patreon.com/trietptm)
 * I work as an Information Security/Cyber Security Consultant with specialized skillsets in APT Hunting, Threat Hunting, Incident Response, Forensics Analysis, Information Security Consulting, Red Teaming (Network+System views).
 * My company provides various private Information Security services, contact me via [LinkedIn](https://www.linkedin.com/in/trietptm/), [Twitter](https://twitter.com/MinhTrietPT/with_replies) if you'd like further information.
-* ![dsc_0078 copy](https://user-images.githubusercontent.com/526959/51726184-a9f47980-2098-11e9-824c-0a4991b572d3.jpg)
+![dsc_0078 copy](https://user-images.githubusercontent.com/526959/51726184-a9f47980-2098-11e9-824c-0a4991b572d3.jpg)
 
 
 # INFORMATION SECURITY/CYBER SECURITY SERVICES:
