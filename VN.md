@@ -4,7 +4,8 @@
 * [LinkedIn](https://www.linkedin.com/in/trietptm/), [Twitter](https://twitter.com/MinhTrietPT/with_replies), [Patreon](https://www.patreon.com/trietptm)
 * <span style="font-family:Times New Roman">Tôi làm việc với vai trò một Information Security/Cyber Security Consultant (người tư vấn bảo mật, an toàn thông tin, mạng và thiết bị) với những kỹ năng chuyên sâu trong các lĩnh vực APT Hunting, Threat Hunting, Incident Response, Forensics Analysis, Information Security Consulting, Red Teaming (qua các tấn công mạng và hệ thống).</span>
 * <span style="font-family:Times New Roman">Công ty của tôi cung cấp các dịch vụ khác nhau trong các lĩnh vực an toàn thông tin, mạng và thiết bị, các cá nhân và doanh nghiệp có thể liên lạc tôi qua [LinkedIn](https://www.linkedin.com/in/trietptm/), [Twitter](https://twitter.com/MinhTrietPT/with_replies) nếu bạn gặp sự cố bảo mật hoặc bạn cần tư vấn về bảo mật cho tài khoản và thông tin của bạn, cùng các giải pháp và các gói bảo mật phù để có các thông tin chi tiết.</span>
-* 
+![dsc_0078 copy](https://user-images.githubusercontent.com/526959/51726184-a9f47980-2098-11e9-824c-0a4991b572d3.jpg)
+
 
 # CÁC DỊCH VỤ BẢO MẬT & AN TOÀN THÔNG TIN (INFORMATION SECURITY/CYBER SECURITY):
 * <span style="font-family:Times New Roman">[SĂN TÌM, RÀ SOÁT MÃ ĐỘC của các cuộc tấn công cao cấp và có chủ đích APT (Advanced Persistent Threat)](https://trietptm.github.io/service/Threat_Hunting)</span>
