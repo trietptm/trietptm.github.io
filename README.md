@@ -25,6 +25,6 @@
 # TESTIMONIALS, ENDORSEMENTS AND SUCCESS STORIES
 * [Mr Tan The Nguyen - Vice General Director of VCCorp](https://www.slideshare.net/slideshow/embed_code/key/AGjVNZ4vKbPLxT)
 * Uncle Bills (UBL) Thảo Điền
-* 
+* Điện tử Viễn Thông Hải Đăng
 
 # [VIETNAMESE VERSION OF THIS WEBSITE](https://trietptm.github.io/VN)
