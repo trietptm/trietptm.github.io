@@ -19,7 +19,7 @@
 * 
 
 # <span style="font-family:Times New Roman">CÁC DỊCH VỤ TƯ VẤN KHÁC</span>:
-* <span style="font-family:Times New Roman">[Thiền định (meditation) và các thói quen thành đạt]()</span>
+* <span style="font-family:Times New Roman">[Thiền định (meditation) và các thói quen của người thành đạt]()</span>
 * 
 
 # <span style="font-family:Times New Roman">KHÁCH HÀNG TIÊU BIỂU/PHẢN HỒI TỪ CÁC KHÁCH HÀNG</span>:
