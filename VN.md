@@ -9,7 +9,6 @@
 * <span style="font-family:Times New Roman">[Penetration Testing cho hệ thống hạ tầng, dịch vụ và website]()</span>
 * <span style="font-family:Times New Roman">DỊCH VỤ KHÁC:</span>
   * <span style="font-family:Times New Roman">[Xóa dữ liệu trọn vẹn và an toàn cho các thiết bị]()</span>
-* <span style="font-family:Times New Roman"></span>
 
 # <span style="font-family:Times New Roman">CÁC DỊCH VỤ TƯ VẤN KHÁC</span>:
 * <span style="font-family:Times New Roman">[Thiền định (meditation) và các thói quen của người làm việc năng suất cao]()</span>
