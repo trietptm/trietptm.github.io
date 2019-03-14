@@ -1,14 +1,14 @@
 # <span style="color:purple">Chào mừng bạn đến với trang dịch vụ bảo mật và tư vấn của TRIETPTM INFOSEC (TRIET PHAM INFOSEC/TRIETPTM ON SECURITY)</span>
 
 # <span style="font-family:Times New Roman">CÁC DỊCH VỤ BẢO MẬT & AN TOÀN THÔNG TIN (INFORMATION SECURITY/CYBER SECURITY)</span>:
-* <span style="font-family:Times New Roman">[**TƯ VẤN BẢO MẬT, AN TOÀN THÔNG TIN, MẠNG VÀ THIẾT BỊ (Information Security/Cyber Security)**]()</span>
-* <span style="font-family:Times New Roman">[**ỨNG CỨU SỰ CỐ BẢO MẬT MẠNG**](https://trietptm.github.io/service/Incident_Response_Forensics)</span>
-* <span style="font-family:Times New Roman">[**SĂN TÌM, RÀ SOÁT MÃ ĐỘC của các cuộc tấn công cao cấp và có chủ đích APT (Advanced Persistent Threat)**](https://trietptm.github.io/service/Threat_Hunting)</span>
-* <span style="font-family:Times New Roman">[**ĐIỀU TRA SỐ cho nội bộ doanh nghiệp**]()</span>
-* <span style="font-family:Times New Roman">[**RED TEAMING**]()</span>
-* <span style="font-family:Times New Roman">[**PENETRATION TESTING cho hệ thống hạ tầng, dịch vụ và website**]()</span>
+* <span style="font-family:Times New Roman">[TƯ VẤN BẢO MẬT, AN TOÀN THÔNG TIN, MẠNG VÀ THIẾT BỊ (Information Security/Cyber Security)]()</span>
+* <span style="font-family:Times New Roman">[ỨNG CỨU SỰ CỐ BẢO MẬT MẠNG](https://trietptm.github.io/service/Incident_Response_Forensics)</span>
+* <span style="font-family:Times New Roman">[SĂN TÌM, RÀ SOÁT MÃ ĐỘC của các cuộc tấn công cao cấp và có chủ đích APT (Advanced Persistent Threat)](https://trietptm.github.io/service/Threat_Hunting)</span>
+* <span style="font-family:Times New Roman">[ĐIỀU TRA SỐ cho nội bộ doanh nghiệp]()</span>
+* <span style="font-family:Times New Roman">[RED TEAMING]()</span>
+* <span style="font-family:Times New Roman">[PENETRATION TESTING cho hệ thống hạ tầng, dịch vụ và website]()</span>
 * <span style="font-family:Times New Roman">DỊCH VỤ KHÁC:</span>
-  * <span style="font-family:Times New Roman">[**Xóa dữ liệu trọn vẹn và an toàn cho các thiết bị**]()</span>
+  * <span style="font-family:Times New Roman">[Xóa dữ liệu trọn vẹn và an toàn cho các thiết bị]()</span>
 
 # <span style="font-family:Times New Roman">KHÁCH HÀNG TIÊU BIỂU/PHẢN HỒI TỪ CÁC KHÁCH HÀNG</span>:
 * <span style="font-family:Times New Roman">[Ông Nguyễn Thế Tân - Phó Tổng Giám Đốc VCCorp](https://www.slideshare.net/slideshow/embed_code/key/AGjVNZ4vKbPLxT)</span>
