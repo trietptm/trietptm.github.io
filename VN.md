@@ -19,8 +19,11 @@
 
 # <span style="font-family:Times New Roman">KHÁCH HÀNG TIÊU BIỂU/PHẢN HỒI TỪ CÁC KHÁCH HÀNG CÁ NHÂN</span>:
 * <span style="font-family:Times New Roman">Ông Phan Quang Thắng, Trung tâm Hạ tầng toàn cầu Viettel</span>
+  * <span style="font-family:Times New Roman">Ứng cứu sự cố bảo mật ransomware, giải mã và khôi phục dữ liệu bị mã hóa (ransomware incident response, data recovery)</span>
 * <span style="font-family:Times New Roman">[Dịch giả Phạm Nguyên Trường](https://www.facebook.com/pham.nguyentruong)</span>
+  * <span style="font-family:Times New Roman">Tư vấn bảo mật bảo vệ tài khoản</span>
 * <span style="font-family:Times New Roman">[Ông Nguyễn Quang Thạch](https://www.facebook.com/nqthach) - [người khởi xướng chương trình Sách Hóa Nông Thôn được UNESCO vinh danh](http://www.unesco.org/new/en/media-services/single-view/news/literacy_prize_winner_answered_the_call_of_his_ancestors_to/)</span>
+  * <span style="font-family:Times New Roman">Ứng cứu sự cố bảo mật, tư vấn bảo mật bảo vệ tài khoản</span>
 
 # <span style="font-family:Times New Roman">GIỚI THIỆU TRIETPTM</span>:
 * [LinkedIn](https://www.linkedin.com/in/trietptm/), [Twitter](https://twitter.com/MinhTrietPT/with_replies), [Facebook](https://www.facebook.com/trietptmonsec/), [Instagram](https://www.instagram.com/trietptm/), [Patreon](https://www.patreon.com/trietptm)
