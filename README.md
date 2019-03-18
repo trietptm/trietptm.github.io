@@ -16,11 +16,9 @@
 * [System Penetration Testing]()
 * OTHERS:
   * Secure Data Wiping/Removal
-* 
 
 # OTHER CONSULTING SERVICES:
 * [How to transform your life with meditation and other life changing habits]()
-* 
 
 # TESTIMONIALS, ENDORSEMENTS AND SUCCESS STORIES
 * [Mr Tan The Nguyen - Vice General Director of VCCorp](https://www.slideshare.net/slideshow/embed_code/key/AGjVNZ4vKbPLxT)
