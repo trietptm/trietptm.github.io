@@ -1,5 +1,5 @@
 
-### [Home](https://trietptm.github.io/)
+### [Home](https://trietptm.com/)
 # Threat Hunting, Server/Endpoint Malware Forensics Service
 
 ## Benefits
