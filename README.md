@@ -8,7 +8,7 @@
 
 
 # INFORMATION SECURITY/CYBER SECURITY SERVICES:
-* [APT Hunting, Threat Hunting](https://trietptm.com/service/Threat_Hunting)
+* [APT Hunting, Threat Hunting](/service/Threat_Hunting)
 * [Incident Response](https://trietptm.com/service/Incident_Response_Forensics)
 * [Forensics Analysis]()
 * [Information Security/Cyber Security Consulting]()
@@ -26,4 +26,4 @@
 * Điện tử Viễn Thông Hải Đăng
 * BLUESOFTS., JSC
 
-# [VIETNAMESE VERSION OF THIS WEBSITE](https://trietptm.com/VN)
+# [VIETNAMESE VERSION OF THIS WEBSITE](/VN)
