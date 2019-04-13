@@ -1,4 +1,4 @@
-### [Home](https://trietptm.com/)
+### [Home](/)
 # Digital Forensics & Incident Respone Service
 
 ## Benefits
