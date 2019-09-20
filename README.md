@@ -22,8 +22,11 @@
 
 # TESTIMONIALS, ENDORSEMENTS AND SUCCESS STORIES
 * [Mr Tan The Nguyen - Vice General Director of VCCorp](https://www.slideshare.net/slideshow/embed_code/key/AGjVNZ4vKbPLxT)
+* [SUB-INSTITUTE OF TRANSPORT SCIENCE AND TECHNOLOGY IN THE SOUTHERN VIETNAM (ITSTS)](http://itsts.gov.vn)
 * Uncle Bills (UBL) Thảo Điền
+* [Ciao Link Holdings](https://ciaolink.net)
 * Điện tử Viễn Thông Hải Đăng
 * BLUESOFTS., JSC
+* [3SSolution](http://www.3ssolution.com.vn)
 
 # [VIETNAMESE VERSION OF THIS WEBSITE](/VN)
